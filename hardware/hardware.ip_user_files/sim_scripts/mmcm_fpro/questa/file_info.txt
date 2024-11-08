@@ -1,0 +1,6 @@
+xpm_cdc.sv,systemverilog,xpm,../../../../../../../Xilinx/Vivado/2019.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="d:/DATN/hardware/hardware.srcs/sources_1/ip/mmcm_fpro"incdir="../../../../hardware.srcs/sources_1/ip/mmcm_fpro"
+xpm_memory.sv,systemverilog,xpm,../../../../../../../Xilinx/Vivado/2019.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="d:/DATN/hardware/hardware.srcs/sources_1/ip/mmcm_fpro"incdir="../../../../hardware.srcs/sources_1/ip/mmcm_fpro"
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../../../Xilinx/Vivado/2019.2/data/ip/xpm/xpm_VCOMP.vhd,incdir="d:/DATN/hardware/hardware.srcs/sources_1/ip/mmcm_fpro"incdir="../../../../hardware.srcs/sources_1/ip/mmcm_fpro"
+mmcm_fpro_clk_wiz.v,verilog,xil_defaultlib,../../../../hardware.srcs/sources_1/ip/mmcm_fpro/mmcm_fpro_clk_wiz.v,incdir="d:/DATN/hardware/hardware.srcs/sources_1/ip/mmcm_fpro"incdir="../../../../hardware.srcs/sources_1/ip/mmcm_fpro"
+mmcm_fpro.v,verilog,xil_defaultlib,../../../../hardware.srcs/sources_1/ip/mmcm_fpro/mmcm_fpro.v,incdir="d:/DATN/hardware/hardware.srcs/sources_1/ip/mmcm_fpro"incdir="../../../../hardware.srcs/sources_1/ip/mmcm_fpro"
+glbl.v,Verilog,xil_defaultlib,glbl.v
