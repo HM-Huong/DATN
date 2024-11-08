@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="D:\DATN.REFACTOR\software\top_level\hw\top_level.mmi" key="app-bmmFile"/>
+	<item value="Local" key="app-target"/>
+	<item value="false" key="app-skip_rev_check"/>
+	<item value="Auto Detect" key="app-device"/>
+	<item value="app" key="programfpga.sdxproject"/>
+	<item value="false" key="app-partial_bit"/>
+	<item value="D:\DATN.REFACTOR\software\app\Debug\app.elf" key="app-microblaze_I-initElf"/>
+	<item value="_ide/bitstream/top_level.bit" key="app-bitFile"/>
+</section>

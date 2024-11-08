@@ -1,0 +1,316 @@
+17:58:52 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+17:58:54 INFO  : XSCT server has started successfully.
+17:58:54 INFO  : plnx-install-location is set to ''
+17:58:54 INFO  : Successfully done setting XSCT server connection channel  
+17:58:54 INFO  : Successfully done setting workspace for the tool. 
+17:58:54 INFO  : Successfully done query RDI_DATADIR 
+17:58:54 INFO  : Registering command handlers for Vitis TCF services
+18:00:04 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:00:32 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:00:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:00:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:00:36 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:01:11 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:01:31 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:01:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:01:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:01:33 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:02:53 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:03:06 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:03:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:03:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:03:07 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:07:03 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:07:13 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:07:27 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:07:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:07:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:07:28 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:07:58 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:08:16 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:08:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:08:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:08:18 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:08:43 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:08:58 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:08:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:08:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:08:59 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:13:59 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:14:19 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:14:36 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:14:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:14:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:14:37 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:35:07 INFO  : Hardware specification for platform project 'top_level' is updated.
+18:35:17 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:35:58 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:35:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:35:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:35:59 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:38:16 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:38:31 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:38:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:38:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:38:32 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:40:32 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:40:47 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:40:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:40:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:40:49 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:41:42 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:41:54 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:41:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:41:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:41:56 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:42:26 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:42:40 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:42:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:42:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:42:41 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:43:27 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:43:40 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:43:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:43:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:43:41 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:45:08 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:45:20 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:45:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:45:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:45:21 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:46:05 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:46:22 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:46:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:46:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:46:23 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+18:47:21 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+18:47:33 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+18:47:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:47:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+18:47:34 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+20:32:40 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+20:33:17 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+20:33:38 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+20:33:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:35:22 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+20:36:07 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+20:36:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:36:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+20:36:08 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:24:43 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:24:53 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:25:10 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:25:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:25:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:25:27 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:33:20 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:33:37 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:33:50 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:33:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:33:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:33:51 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:42:00 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:42:19 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:42:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:42:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:42:21 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:44:14 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:44:27 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:44:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:44:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:44:28 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:49:34 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:49:47 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:49:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:49:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:49:48 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:50:43 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:50:56 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:50:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:50:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:50:57 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:54:43 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:54:57 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:54:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:54:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:54:58 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:57:32 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:59:41 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:00:19 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:00:28 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:00:43 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+00:00:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:00:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+00:00:45 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+00:05:34 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:05:52 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+00:05:52 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:05:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+00:05:53 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+00:08:52 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:09:05 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+00:09:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:09:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+00:09:07 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+00:14:15 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:14:42 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+00:14:55 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+00:14:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:14:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+00:14:56 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+14:37:39 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+14:37:43 INFO  : XSCT server has started successfully.
+14:37:43 INFO  : Successfully done setting XSCT server connection channel  
+14:37:43 INFO  : plnx-install-location is set to ''
+14:37:43 INFO  : Successfully done setting workspace for the tool. 
+14:37:44 INFO  : Registering command handlers for Vitis TCF services
+14:37:50 INFO  : Successfully done query RDI_DATADIR 
+14:37:50 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+14:37:53 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+14:38:29 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+14:38:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:38:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+14:38:32 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+14:40:07 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+14:40:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:40:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+14:40:09 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+15:21:05 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+15:21:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:21:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+15:21:06 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+17:44:43 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+17:44:46 INFO  : XSCT server has started successfully.
+17:44:47 INFO  : Successfully done setting XSCT server connection channel  
+17:44:47 INFO  : plnx-install-location is set to ''
+17:44:47 INFO  : Successfully done setting workspace for the tool. 
+17:44:48 INFO  : Registering command handlers for Vitis TCF services
+17:44:52 INFO  : Successfully done query RDI_DATADIR 
+22:20:16 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+22:20:19 INFO  : XSCT server has started successfully.
+22:20:19 INFO  : Successfully done setting XSCT server connection channel  
+22:20:19 INFO  : plnx-install-location is set to ''
+22:20:19 INFO  : Successfully done setting workspace for the tool. 
+22:20:20 INFO  : Registering command handlers for Vitis TCF services
+22:20:25 INFO  : Successfully done query RDI_DATADIR 
+22:21:08 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:21:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:21:53 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:21:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:22:48 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:22:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:22:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:22:50 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:24:28 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:24:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:24:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:24:29 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+21:34:21 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+21:34:24 INFO  : XSCT server has started successfully.
+21:34:24 INFO  : Successfully done setting XSCT server connection channel  
+21:34:24 INFO  : plnx-install-location is set to ''
+21:34:24 INFO  : Successfully done setting workspace for the tool. 
+21:34:25 INFO  : Registering command handlers for Vitis TCF services
+21:34:30 INFO  : Successfully done query RDI_DATADIR 
+21:40:22 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:03:51 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:04:28 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:04:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:04:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:04:32 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:05:38 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:05:44 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:05:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:05:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:05:45 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:06:09 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:08:06 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:08:36 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:08:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:08:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:08:37 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:09:42 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:09:49 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:09:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:09:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:09:50 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:10:08 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:10:15 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:10:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:10:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:10:17 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:11:29 INFO  : Hardware specification for platform project 'top_level' is updated.
+22:11:42 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:11:43 INFO  : The hardware specfication used by project 'app' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+22:11:43 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\download.bit' stored in project is removed.
+22:11:43 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.bit' stored in project is removed.
+22:11:43 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.mmi' stored in project is removed.
+22:11:43 INFO  : The updated bitstream files are copied from platform to folder 'D:\DATN.REFACTOR\software\app\_ide\bitstream' in project 'app'.
+22:11:55 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:11:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:11:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:11:56 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:12:39 INFO  : Hardware specification for platform project 'top_level' is updated.
+22:13:04 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:13:17 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:13:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:13:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:13:19 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+22:29:00 INFO  : Hardware specification for platform project 'top_level' is updated.
+22:29:15 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+22:29:17 INFO  : The hardware specfication used by project 'app' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+22:29:17 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\download.bit' stored in project is removed.
+22:29:17 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.bit' stored in project is removed.
+22:29:17 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.mmi' stored in project is removed.
+22:29:17 INFO  : The updated bitstream files are copied from platform to folder 'D:\DATN.REFACTOR\software\app\_ide\bitstream' in project 'app'.
+22:29:28 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+22:29:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:29:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+22:29:29 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:17:07 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+23:17:10 INFO  : XSCT server has started successfully.
+23:17:10 INFO  : Successfully done setting XSCT server connection channel  
+23:17:10 INFO  : plnx-install-location is set to ''
+23:17:10 INFO  : Successfully done setting workspace for the tool. 
+23:17:15 INFO  : Registering command handlers for Vitis TCF services
+23:17:16 INFO  : Successfully done query RDI_DATADIR 
+23:18:57 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:19:12 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:19:31 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:19:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:19:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:19:35 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+23:21:42 INFO  : Hardware specification for platform project 'top_level' is updated.
+23:21:50 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+23:21:51 INFO  : The hardware specfication used by project 'app' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+23:21:51 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\download.bit' stored in project is removed.
+23:21:51 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.bit' stored in project is removed.
+23:21:51 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.mmi' stored in project is removed.
+23:21:52 INFO  : The updated bitstream files are copied from platform to folder 'D:\DATN.REFACTOR\software\app\_ide\bitstream' in project 'app'.
+23:22:05 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+23:22:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:22:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+23:22:06 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+11:02:52 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATN.REFACTOR\software\temp_xsdb_launch_script.tcl
+11:02:56 INFO  : XSCT server has started successfully.
+11:02:56 INFO  : plnx-install-location is set to ''
+11:02:56 INFO  : Successfully done setting XSCT server connection channel  
+11:02:56 INFO  : Successfully done setting workspace for the tool. 
+11:03:03 INFO  : Registering command handlers for Vitis TCF services
+11:03:05 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+11:03:10 INFO  : Successfully done query RDI_DATADIR 
+11:03:27 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+11:03:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:03:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+11:03:31 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"
+11:11:19 INFO  : Hardware specification for platform project 'top_level' is updated.
+11:11:31 INFO  : Checking for BSP changes to sync application flags for project 'app'...
+11:11:32 INFO  : The hardware specfication used by project 'app' is out of sync with the platform. Resource files extracted from the hardware specfiication will be updated.
+11:11:32 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\download.bit' stored in project is removed.
+11:11:32 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.bit' stored in project is removed.
+11:11:32 INFO  : The file 'D:\DATN.REFACTOR\software\app\_ide\bitstream\top_level.mmi' stored in project is removed.
+11:11:32 INFO  : The updated bitstream files are copied from platform to folder 'D:\DATN.REFACTOR\software\app\_ide\bitstream' in project 'app'.
+11:11:45 INFO  : Bit file 'D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit' is generated.
+11:11:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:11:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-35T 210319B4A283A" && level==0} -index 0' command is executed.
+11:11:46 INFO  : FPGA configured successfully with bitstream "D:/DATN.REFACTOR/software/app/_ide/bitstream/download.bit"

@@ -1,0 +1,6 @@
+/*top_level*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}
