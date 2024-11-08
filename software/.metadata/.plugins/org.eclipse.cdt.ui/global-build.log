@@ -1,0 +1,25 @@
+Nothing to build in platform 'top_level'
+
+14:37:50 **** Incremental Build of configuration Debug for project app ****
+make all 
+'Building file: ../src/game/brick_bicker.cpp'
+'Invoking: MicroBlaze g++ compiler'
+mb-g++ -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/game/brick_bicker.o" -ID:/DATN.REFACTOR/software/top_level/export/top_level/sw/top_level/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/game/brick_bicker.d" -MT"src/game/brick_bicker.o" -o "src/game/brick_bicker.o" "../src/game/brick_bicker.cpp"
+'Finished building: ../src/game/brick_bicker.cpp'
+' '
+'Building target: app.elf'
+'Invoking: MicroBlaze g++ linker'
+mb-g++ -Wl,-T -Wl,../src/lscript.ld -LD:/DATN.REFACTOR/software/top_level/export/top_level/sw/top_level/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "app.elf"  ./src/game/brick_bicker.o  ./src/drivers/platform/AES128.o ./src/drivers/platform/bar_test_core.o ./src/drivers/platform/frame_core.o ./src/drivers/platform/gpio_cores.o ./src/drivers/platform/i2c_core.o ./src/drivers/platform/init.o ./src/drivers/platform/spi_core.o ./src/drivers/platform/sprite_core.o ./src/drivers/platform/text_core.o ./src/drivers/platform/timer_core.o ./src/drivers/platform/uart_core.o  ./src/drivers/device/LCD_I2C.o  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,-lstdc++,--end-group
+'Finished building target: app.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size app.elf  |tee "app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 121012	   1760	   3388	 126160	  1ecd0	app.elf
+'Finished building: app.elf.size'
+' '
+Nothing to build in platform 'top_level'
+
+14:37:53 **** Incremental Build of configuration Debug for project app ****
+make all 
+make: Nothing to be done for 'all'.
