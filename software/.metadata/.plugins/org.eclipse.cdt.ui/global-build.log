@@ -1,0 +1,6 @@
+23:21:49 **** Incremental Build of project top_level ****
+buildplatform.bat 50274 top_level no_domain_build 
+XSDB Server Channel: tcfchan#2
+23:21:51 **** Incremental Build of configuration Debug for project app ****
+make all 
+make: Nothing to be done for 'all'.
